@@ -165,4 +165,13 @@
     <!-- Notch: Full screen apps -->
     <string name="display_cutout_force_fullscreen_title">Full screen apps</string>
     <string name="display_cutout_force_fullscreen_summary">Force apps to ignore notch space</string>
+
+    <!-- Scramble PIN Layout on Lockscreen -->
+    <string name="unlock_scramble_pin_layout_title">Scramble layout</string>
+    <string name="unlock_scramble_pin_layout_summary">Scramble PIN layout when unlocking device</string>
+
+    <!-- Whether the keyguard will directly show the lock entry -->
+    <string name="directly_show_lock">Direct unlock</string>
+    <string name="directly_show_lock_summary">Skip the swipe to unlock screen and immediately begin key entry</string>
+
 </resources>
